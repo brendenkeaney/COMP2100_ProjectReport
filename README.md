@@ -46,5 +46,4 @@ https://johnloomis.org/ece538/notes/jhtp10th/ch28/fig28_11/TicTacToeServer.java.
 https://johnloomis.org/ece538/notes/jhtp10th/ch28/fig28_11/TicTacToeClient.java.html
 
 # Team Members
-Brenden Keaney
-Cara Sweeney
+Brenden Keaney & Cara Sweeney
