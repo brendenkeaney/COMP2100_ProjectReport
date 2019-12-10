@@ -18,13 +18,13 @@ If playing against other people:
 
 1. Change line 28 to be: "private String ip = "insert your IP addess here";"
 2. Save and press the run button in the top left corner in eclipse.
-3. Enter your IP address and port number or "12345".
+3. Enter your IP address and port number which should be "12345".
 4. Once the other player logs on with your IP and same port number, the game will start.
 
 If playing against yourself:
 
 1. Open two command prompts.
-2. Type "java - jar " and then drag the JAR file that was saved to your desktop from your Desktop to the command prompt. Do this for both windows.
+2. Type "java - jar " and then drag the JAR file that was saved to your desktop from your desktop to the command prompt. Do this for both windows.
 3. Enter "localhost" for the IP address.
 4. Enter "12345" for the port number.
 
@@ -37,7 +37,7 @@ If playing against yourself:
 4. On win, it will show the 3 tiles filled with a line through them
 
 # Demo Video
-TODO: complete this section
+https://youtu.be/QOJ6V3tB6D8
 
 # References
 http://underpop.online.fr/j/java/help/client-server-tic-tac-toe-using-a-multithreaded-server-networking.html.gz
